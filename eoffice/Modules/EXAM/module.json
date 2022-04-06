@@ -1,0 +1,13 @@
+{
+    "name": "EXAM",
+    "alias": "exam",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\EXAM\\Providers\\EXAMServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
